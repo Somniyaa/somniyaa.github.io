@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-<title>Aryanova</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
