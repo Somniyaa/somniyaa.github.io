@@ -5,10 +5,8 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="text">Арянова Софья</div>
-</body>
-</html>
-<style>.text{
+  <style>
+  .text{
 width: 1000px;
 height: 200px;
 background: #7FFFD4;
@@ -21,3 +19,7 @@ font-family: Arial, Verdana, sans-serif;
 font-size: 120px;
 }
 </style>
+
+<div class="text">Арянова Софья</div>
+</body>
+</html>
